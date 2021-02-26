@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80"
+    },
+    {
+      "name": "Klavye",
+      "description": "Gaming Klavye",
+      "imageUrl": "https://caspermedia.mncdn.com/uploads/2020/10/klavye-mouse-set_op.webp",
+      "price": "50",
+      "categoryId": "1",
+      "id": 3
+    },
+    {
+      "name": "Buzdolabı",
+      "description": "No-Frost Buzdolabı",
+      "imageUrl": "https://www.vestel.com.tr/ProductImages/LargeImagesNew/20310114_r1.png",
+      "price": "4500",
+      "categoryId": "1",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Elektronik"
+    },
+    {
+      "id": 2,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 3,
+      "name": "İletişim"
+    },
+    {
+      "id": 4,
+      "name": "Müzik"
+    },
+    {
+      "id": 5,
+      "name": "İçecek"
+    }
+  ]
+}
